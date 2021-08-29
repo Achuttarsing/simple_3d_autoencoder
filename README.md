@@ -3,4 +3,4 @@
 
 Adapted from [Learning Representations and Generative Models for 3D Point Clouds](https://arxiv.org/abs/1707.02392)
 
-This repo is design to run with Google Colaboratory
+This repo is designed to run with Google Colaboratory
