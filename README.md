@@ -4,3 +4,13 @@
 Adapted from [Learning Representations and Generative Models for 3D Point Clouds](https://arxiv.org/abs/1707.02392)
 
 This repo is designed to run with Google Colaboratory
+
+### What can I do ?
+
+With this repo, you can easily train an autoencoder on your own dataset. You just have to click on the *"Open In Colab"* button. 
+
+By default, a chair dataset can be downloaded with the ```download_data.sh```
+
+### What is an autoencoder ?
+
+
